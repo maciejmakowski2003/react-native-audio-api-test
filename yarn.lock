@@ -5793,9 +5793,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-"react-native-audio-api@file:../react-native-audio-api/react-native-audio-api-0.3.2.tgz":
+react-native-audio-api@0.3.2:
   version "0.3.2"
-  resolved "file:../react-native-audio-api/react-native-audio-api-0.3.2.tgz#39c2c198511314992ab52269ae383555d9c1e35c"
+  resolved "https://registry.yarnpkg.com/react-native-audio-api/-/react-native-audio-api-0.3.2.tgz#39c2c198511314992ab52269ae383555d9c1e35c"
+  integrity sha512-EKrm9enI8LLuq/AboJaspybJ91cZ01J11LR+fCaSGuSY3xgCAfavs8GgeQ0y8YcH7cipv1vx9INVifhu9dFLHg==
 
 react-native-gesture-handler@^2.21.2:
   version "2.22.0"
